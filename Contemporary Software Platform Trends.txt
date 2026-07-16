@@ -1,0 +1,23 @@
+Contemporary Software Platform Trends
+
+1. Open Source
+2. Software for Network Monitoring
+3. Software for Packet Sniffing
+4. Cloud Computing Dominance
+5. Microservices Architecture
+6. DevOPS and CI/CD
+7. Artificial Intelligence and Machine Learning
+8. Low code and No code development
+9. Blockchain
+10. Quantum Computing
+11. Cybersecurity and Privacy
+12. APIs Integration
+
+Open Source
+-Philosophy/methodology promotes free redistribution and access to product's design or ideas
+
+Licenses
+-Open-Source
+--Copy Lep
+
+--Permissive

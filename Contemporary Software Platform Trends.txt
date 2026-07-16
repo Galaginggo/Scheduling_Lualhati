@@ -34,7 +34,7 @@ Open Source
 
 Licenses
 -Open-Source
---Copy Lep
+--CopyLeft
 
 --Permissive
 

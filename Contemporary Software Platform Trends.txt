@@ -16,8 +16,25 @@ Contemporary Software Platform Trends
 Open Source
 -Philosophy/methodology promotes free redistribution and access to product's design or ideas
 
+-Availability of source code
+--Source code to understand and learn from
+--Do not have to re-invent the wheel
+--Free as in "freedom"
+
+-Does not depend on vendor
+--Can choose additional support
+--Can fix bugs and adapt to change in requirements as well as technology
+
+-Disadvantages
+--Not straightforward to use, has learning curve
+--Incompatibility issues
+--Bad code
+--QA not transparent
+--No financial incentive
+
 Licenses
 -Open-Source
 --Copy Lep
 
 --Permissive
+
